@@ -20,6 +20,8 @@ void EjercicioGrupal12Prin::btFabi_Click(Win::Event& e)
 
 void EjercicioGrupal12Prin::btJesus_Click(Win::Event& e)
 {
+	Ejercicio12Dgl jesus;
+	jesus.BeginDialog(hWnd);
 }
 
 void EjercicioGrupal12Prin::btAngel_Click(Win::Event& e)
