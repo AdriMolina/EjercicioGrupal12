@@ -1,6 +1,7 @@
 #pragma once  //______________________________________ EjercicioGrupal12Prin.h  
 #include "Resource.h"
 #include "FabiDlg.h"
+#include "AngelDlg.h"
 class EjercicioGrupal12Prin: public Win::Dialog
 {
 public:
