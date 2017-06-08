@@ -2,6 +2,7 @@
 #include "Resource.h"
 #include "FabiDlg.h"
 #include "AngelDlg.h"
+#include "JavierDlg.h"
 class EjercicioGrupal12Prin: public Win::Dialog
 {
 public:

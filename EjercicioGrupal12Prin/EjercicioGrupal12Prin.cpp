@@ -12,6 +12,8 @@ void EjercicioGrupal12Prin::Window_Open(Win::Event& e)
 
 void EjercicioGrupal12Prin::btJavier_Click(Win::Event& e)
 {
+	JavierDlg objDlg;
+	objDlg.BeginDialog(hWnd);
 }
 
 void EjercicioGrupal12Prin::btFabi_Click(Win::Event& e)
