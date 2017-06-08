@@ -36,6 +36,7 @@
     <ClInclude Include="FabiDlg.h">
     <ClInclude Include="AngelDlg.h">
     <ClInclude Include="JavierDlg.h">
+    <ClInclude Include="Ejercicio12Dgl.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -55,6 +56,7 @@
     <ClCompile Include="FabiDlg.cpp">
     <ClCompile Include="AngelDlg.cpp">
     <ClCompile Include="JavierDlg.cpp">
+    <ClCompile Include="Ejercicio12Dgl.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

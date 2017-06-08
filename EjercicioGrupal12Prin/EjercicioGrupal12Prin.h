@@ -3,6 +3,8 @@
 #include "FabiDlg.h"
 #include "AngelDlg.h"
 #include "JavierDlg.h"
+#include "Ejercicio12Dgl.h"
+
 class EjercicioGrupal12Prin: public Win::Dialog
 {
 public:
