@@ -24,5 +24,7 @@ void EjercicioGrupal12Prin::btJesus_Click(Win::Event& e)
 
 void EjercicioGrupal12Prin::btAngel_Click(Win::Event& e)
 {
+	AngelDlg objAngel;
+	objAngel.BeginDialog(hWnd);
 }
 
